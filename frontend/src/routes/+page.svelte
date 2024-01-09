@@ -1,9 +1,2 @@
-<script>
-    export let data;
-  </script>
-  
-  <ul>
-    {#each data.caregivers as cg}
-      <li>{cg.fname} {cg.lname}</li>
-    {/each}
-  </ul>
+<h1>Hello User, Please select account type</h1>
+<a href="test.html">Caregiver</a>
